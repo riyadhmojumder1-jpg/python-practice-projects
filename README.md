@@ -27,5 +27,4 @@ I am learning Python programming and building practical projects to improve my s
 
 **Created by Riyadh**
 
-Python Developer in Progress 🚀# python-practice-projects
-Python learning, practice exercises and real-world projects.
+Python Developer in Progress 🚀
